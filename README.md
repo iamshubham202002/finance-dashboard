@@ -12,9 +12,9 @@ A REST API backend for finance dashboard with role-based access control (RBAC).
 
 ## Tech Stack
 
-- Java 17
+- Java 21
 - Spring Boot 3.1.5
-- PostgreSQL / H2 Database
+- H2 Database
 - Maven
 
 ## Roles & Permissions
